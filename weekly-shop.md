@@ -51,6 +51,7 @@
 
 * [] Butter
 * [] Stork
+* [x] Cheese
 * [] Mango chutney
 * [] Mustard
 * [] Ketchup
