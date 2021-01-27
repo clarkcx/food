@@ -36,6 +36,8 @@
 
 ## Checklist ([x] = Need)
 
+* [x] Bin bags (30l)
+
 ### Freezer
 
 * [] Hashbrowns
@@ -43,7 +45,7 @@
 * [] Frozen spinach
 * [] Root ginger
 * [x] Chips
-* [x] Quorn sausages
+* [] Quorn sausages
 
 ## Fridge
 
@@ -52,11 +54,13 @@
 * [] Mango chutney
 * [] Mustard
 * [] Ketchup
-* [] Lemon juice
+* [x] Lemon juice
+* [x] Mayo
+* [x] Garlic paste
 
 ### Snack cupboard
-* [] Jam
-* [] Peanut butter
+* [x] Jam
+* [x] Peanut butter
 * [] Marmite
 * [] Raisins / sultanas
 
@@ -64,6 +68,7 @@
 
 * [] Soy sauce
 * [] Gravy granules
+* [x] Stock cubes (Veggie)
 * [] Eggs
 * [] Sesame oil
 * [] Plain flour
@@ -88,5 +93,5 @@
 ### Drinks
 
 * [] Teabags
-* [] Coffee
+* [x] Coffee
 * [x] Cordial/squash
