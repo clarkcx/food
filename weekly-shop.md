@@ -36,7 +36,9 @@
 
 ## Checklist ([x] = Need)
 
-* [x] Bin bags (30l)
+* [] Bin bags (30l)
+* [x] Bleach
+* [x] Ibuprofen
 
 ### Freezer
 
@@ -44,24 +46,24 @@
 * [] Veggie mix
 * [] Frozen spinach
 * [] Root ginger
-* [x] Chips
+* [] Chips
 * [] Quorn sausages
 
 ## Fridge
 
 * [] Butter
 * [] Stork
-* [x] Cheese
+* [] Cheese
 * [] Mango chutney
 * [] Mustard
 * [] Ketchup
-* [x] Lemon juice
-* [x] Mayo
-* [x] Garlic paste
+* [] Lemon juice
+* [] Mayo
+* [] Garlic paste
 
 ### Snack cupboard
-* [x] Jam
-* [x] Peanut butter
+* [] Jam
+* [] Peanut butter
 * [] Marmite
 * [] Raisins / sultanas
 
@@ -69,7 +71,7 @@
 
 * [] Soy sauce
 * [] Gravy granules
-* [x] Stock cubes (Veggie)
+* [] Stock cubes (Veggie)
 * [] Eggs
 * [] Sesame oil
 * [] Plain flour
@@ -80,10 +82,10 @@
 * [] Pasta
 * [] Cous cous
 * [] Noodles
-* [x] Sweet potatoes
+* [] Sweet potatoes
 
 #### Tins
-* [x] Mushrooms
+* [] Mushrooms
 * [] Peaches
 * [] Tomatoes
 * [] Baked beans
@@ -95,4 +97,4 @@
 
 * [] Teabags
 * [x] Coffee
-* [x] Cordial/squash
+* [] Cordial/squash
