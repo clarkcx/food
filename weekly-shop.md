@@ -6,8 +6,8 @@
 * [x1] Mushrooms (250g)
 * [x1] Fresh pepper
 * [x1] Red chilli
-* [x1] Easy peelers
-* [x1] Bunch bananananas
+* [x1] Easy peelers / Bunch bananananas
+* [x2] Dark chocolate
 
 * [x2] Fresh juice
 * [x3] Oat milk
