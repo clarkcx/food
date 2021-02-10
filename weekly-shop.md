@@ -92,6 +92,7 @@
 * [] Kidney beans
 * [] Black beans
 * [] Chickpeas
+* [] Canallini beans
 
 ### Drinks
 
